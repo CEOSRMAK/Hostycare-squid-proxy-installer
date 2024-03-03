@@ -1,5 +1,23 @@
 # Squid Proxy Installer
 
+#!/bin/bash
+
+############################################################
+#Squid Proxy Installer
+#Squid Installer
+#Author: Hostycare Official
+#Blog: https://www.hostycare.com/
+
+# Github: https://github.com/Hostycares/Hostycare-squid-proxy-installer
+
+# Web: https://www.hostycare.com/
+
+# If you need professional assistance, reach out to
+
+# https://www.hostycare.com//contact-us
+
+############################################################
+
 '''
 Squid Proxy Installer
 Author: support@hostycare.com
