@@ -2,6 +2,7 @@
 
 ############################################################
 #Squid Proxy Installer
+#Squid Installer
 #Author: Hostycare Official
 #Blog: https://www.hostycare.com/
 
