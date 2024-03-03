@@ -3,11 +3,12 @@
 #!/bin/bash
 
 ############################################################
+
 #Squid Proxy Installer
 #Squid Installer
 #Author: Hostycare Official
 #Blog: https://www.hostycare.com/
-...
+
 Github: https://github.com/Hostycares/Hostycare-squid-proxy-installer
 
 Web: https://www.hostycare.com/
@@ -15,13 +16,14 @@ Web: https://www.hostycare.com/
 If you need professional assistance, reach out to
 
 https://www.hostycare.com//contact-us
-...
+
 ############################################################
 
 '''
 Squid Proxy Installer
 Author: support@hostycare.com
 Blog: https://www.hostycare.com/
+
 '''
 
 Auto install Squid 3 proxy on following linux OS.
