@@ -4,13 +4,13 @@
 
 ############################################################
 
-#Squid Proxy Installer
+Squid Proxy Installer
 
-#Squid Installer
+Squid Installer
 
-#Author: Hostycare Official
+Author: Hostycare Official
 
-#Blog: https://www.hostycare.com/
+Blog: https://www.hostycare.com/
 
 Github: https://github.com/Hostycares/Hostycare-squid-proxy-installer
 
@@ -24,7 +24,9 @@ https://www.hostycare.com//contact-us
 
 '''
 Squid Proxy Installer
+
 Author: support@hostycare.com
+
 Blog: https://www.hostycare.com/
 
 '''
