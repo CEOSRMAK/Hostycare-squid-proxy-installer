@@ -5,8 +5,11 @@
 ############################################################
 
 #Squid Proxy Installer
+
 #Squid Installer
+
 #Author: Hostycare Official
+
 #Blog: https://www.hostycare.com/
 
 Github: https://github.com/Hostycares/Hostycare-squid-proxy-installer
