@@ -19,7 +19,7 @@ Auto install Squid 3 proxy on following linux OS.
 To install, run the script
 
 ```
-wget https://raw.githubusercontent.com/Hostycares/Hostycare/main/squid3-install.sh -O squid3-install.sh
+wget https://raw.githubusercontent.com/Hostycares/Hostycare-squid-proxy-installer/main/squid3-install.sh -O squid3-install.sh
 sudo bash squid3-install.sh
 ```
 
@@ -62,7 +62,7 @@ Before you can configure squid to use muliple IP address, you need to add IP to 
 Once IP added to your server, you can configure it to use with squid proxy by running following command
 
 ```
-wget https://raw.githubusercontent.com/Hostycares/Hostycare/main/squid-conf-ip.sh
+wget https://raw.githubusercontent.com/Hostycares/Hostycare-squid-proxy-installer/main/squid-conf-ip.sh
 sudo bash squid-conf-ip.sh
 ```
 
