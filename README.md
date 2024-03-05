@@ -98,7 +98,7 @@ sudo bash squid-conf-ip.sh
 
 # Change Squid Proxy Port
 
-Default squid proxy port is 3128. This blog post will show how to change squid port.
+Default squid proxy port is 3128,5515,8080,8000,9090 This blog post will show how to change squid port.
 ```
 sudo vi /etc/squid/squid.conf
 ```
