@@ -23,7 +23,6 @@ Squid Proxy Installer
 Author: support@hostycare.com
 Blog: https://www.hostycare.com/
 
-Port  : 3128, 5515, 8080, 8000, 9090
 '''
 
 Auto install Squid 3 proxy on following linux OS.
