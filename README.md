@@ -24,9 +24,13 @@ https://www.hostycare.com//contact-us
 
 '''
 Squid Proxy Installer
+
 Author: support@hostycare.com
+
 Blog: https://www.hostycare.com/
+
 Whatsapp No: +91- 8400681184
+
 Buy Linux & VPS In Best Price
 
 '''
@@ -110,7 +114,10 @@ If you need professional assistance, reach out to
 
 '''
 Author: support@hostycare.com
+
 Blog: https://www.hostycare.com/contact-us
+
 Whatsapp No: +91- 8400681184
+
 Buy Linux & VPS In Best Price
 '''
