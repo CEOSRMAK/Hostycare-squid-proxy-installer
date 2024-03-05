@@ -19,7 +19,7 @@ https://www.hostycare.com//contact-us
 ############################################################
 
 '''
-Squid Proxy Installer
+Squid Proxy Installer : 3128, 5515, 8080, 8000, 9090
 Author: support@hostycare.com
 Blog: https://www.hostycare.com/
 
