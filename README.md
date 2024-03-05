@@ -1,13 +1,13 @@
 # Squid Proxy Installer
 
 #!/bin/bash
-
 ############################################################
 #Squid Proxy Installer
 #Squid Installer
 #Author: Hostycare Official
 #Blog: https://www.hostycare.com/
 ...
+
 Github: https://github.com/Hostycares/Hostycare-squid-proxy-installer
 
 Web: https://www.hostycare.com/
@@ -16,12 +16,15 @@ If you need professional assistance, reach out to
 
 https://www.hostycare.com//contact-us
 ...
+
 ############################################################
 
 '''
 Squid Proxy Installer
 Author: support@hostycare.com
 Blog: https://www.hostycare.com/
+Whatsapp No: +91- 8400681184
+Buy Linux & VPS In Best Price
 
 '''
 
@@ -89,6 +92,14 @@ sudo bash squid-conf-ip.sh
 # Change Squid Proxy Port
 
 Default squid proxy port is 3128. This blog post will show how to change squid port.
+```
+sudo vi /etc/squid/squid.conf
+```
+```
+http_port 3128
+```
+
+sudo systemctl restart squid
 
 # Support
 
@@ -97,4 +108,6 @@ If you need professional assistance, reach out to
 '''
 Author: support@hostycare.com
 Blog: https://www.hostycare.com/contact-us
+Whatsapp No: +91- 8400681184
+Buy Linux & VPS In Best Price
 '''
