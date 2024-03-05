@@ -271,9 +271,9 @@ CYAN='\033[0;36m'
 NC='\033[0m'
 
 echo -e "${NC}"
-echo -e "${GREEN}Thank you for using ServerOk Squid Proxy Installer.${NC}"
+echo -e "${GREEN}Thank you for using Hostycare.com Squid Proxy Installer.${NC}"
 echo
 echo -e "${CYAN}To create a proxy user, run command: squid-add-user${NC}"
-echo -e "${CYAN}To change squid proxy port, see ${GREEN}https://www.hostycare.com${NC}"
+echo -e "${CYAN}To change squid proxy port, see ${GREEN}https://www.hostycare.com or Whatsapp : +91- 8400681184 ${NC}"
 echo -e "${NC}"
 

@@ -25,7 +25,7 @@ SOK_OS=$(/usr/local/bin/sok-find-os)
 
 if [ $SOK_OS == "ERROR" ]; then
     echo "OS NOT SUPPORTED.\n"
-    echo "Contact https://serverok.in/contact to add support for your OS."
+    echo "Contact https://www.hostycare.com/contact-us Whatsapp No. +91 8400681184 to add support for your OS."
     exit 1;
 fi
 
@@ -93,6 +93,6 @@ rm -f /usr/local/bin/squid-uninstall > /dev/null 2>&1
 echo 
 echo 
 echo "Squid Proxy uninstalled."
-echo "Thank you for using serverok.in squid proxy installer"
-echo "If you want to reinstall Squid Proxy Server, check https://serverok.in/squid"
+echo "Thank you for using https://www.hostycare.com/ or Whatsapp : +91- 8400681184 squid proxy installer"
+echo "If you want to reinstall Squid Proxy Server, check https://www.hostycare.com/
 echo 
